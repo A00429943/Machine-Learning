@@ -7,7 +7,7 @@ library("corrgram")
 library("corrplot")
 library("caTools")
 
-#install.packages('caTools')
+install.packages('caTools')
 
 
 df <- read.csv("C:/Users/maninderk770/Desktop/R/R-Course-HTML-Notes/R-Course-HTML-Notes/R-for-Data-Science-and-Machine-Learning/Machine Learning with R/student-mat.csv",";")
